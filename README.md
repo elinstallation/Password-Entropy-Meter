@@ -2,6 +2,8 @@
 
 A simple desktop tool that calculates the Shannon entropy of a password and displays the result in a live-updating GUI built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
 
+## Demo
+
 ## Features
 
 - Calculates entropy (bits per character) based on the character distribution of the entered password

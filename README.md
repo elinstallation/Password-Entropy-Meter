@@ -3,6 +3,7 @@
 A simple desktop tool that calculates the Shannon entropy of a password and displays the result in a live-updating GUI built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
 
 ## Demo
+[Demo](pw entropy.mp4)
 
 ## Features
 

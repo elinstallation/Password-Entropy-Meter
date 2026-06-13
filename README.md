@@ -1,9 +1,12 @@
+
+
+
 # Password Entropy Meter
 
 A simple desktop tool that calculates the Shannon entropy of a password and displays the result in a live-updating GUI built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
 
 ## Demo
-https://github.com/elinstallation/Password-Entropy-Meter/blob/main/pwentropy.mp4?raw=true
+https://github.com/user-attachments/assets/0261dda3-d715-4f10-bb5a-aef6bada0977
 
 ## Features
 
